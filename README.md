@@ -9,6 +9,10 @@
 * Report mean and std of results for a selected classification and regression dataset. 
 * Regression - Energy data: https://archive.ics.uci.edu/dataset/242/energy+efficiency
 * Classification - Pima data: https://www.kaggle.com/kumargh/pimaindiansdiabetescsv
+
+### Installation
+* XGBoost https://xgboost.readthedocs.io/en/stable/install.html
+* Sklearn https://scikit-learn.org/stable/install.html
   
 ### Tutorial
 * https://github.com/sydney-machine-learning/ensemble-learning-tutorial/blob/master/ensemble_tutorial_detailed.md
