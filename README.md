@@ -15,7 +15,8 @@
 * Sklearn https://scikit-learn.org/stable/install.html
   
 ### Tutorial
-* https://github.com/sydney-machine-learning/ensemble-learning-tutorial/blob/master/ensemble_tutorial_detailed.md
+* [ensemple.py] was written by Rohitash Chandra. Gemini was used to make [ensemble-gemini.py] and [ensemble-tutorial.ipnyb]
+* [ensemble_tutorial_detailed.md] was created by ChatGPT using [ensemble.py]
 
 ### Resources
 * ChatGPT Tutorial support: https://chatgpt.com/share/69d4e146-6bcc-8324-a373-63926991da20
