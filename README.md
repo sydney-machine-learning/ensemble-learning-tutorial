@@ -13,4 +13,5 @@
 * https://github.com/sydney-machine-learning/ensemble-learning-tutorial/blob/master/ensemble_tutorial_detailed.md
 
 ## Resources
+* ChatGPT Tutorial support: https://chatgpt.com/share/69d4e146-6bcc-8324-a373-63926991da20
 * Khan, Azal Ahmad, Omkar Chaudhari, and Rohitash Chandra. "A review of ensemble learning and data augmentation models for class imbalanced problems: Combination, implementation and evaluation." Expert Systems with Applications 244 (2024): 122778.https://www.sciencedirect.com/science/article/pii/S0957417423032803
