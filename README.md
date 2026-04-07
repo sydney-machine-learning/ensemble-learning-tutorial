@@ -15,7 +15,7 @@
 * Sklearn https://scikit-learn.org/stable/install.html
   
 ### Tutorial
-* [ensemple.py] was written by Rohitash Chandra. Gemini was used to make [ensemble-gemini.py] and [ensemble-tutorial.ipnyb]
+* (ensemple.py)[ensemple.py] was written by Rohitash Chandra. Gemini was used to make [ensemble-gemini.py] and [ensemble-tutorial.ipnyb]
 * [ensemble_tutorial_detailed.md] was created by ChatGPT using [ensemble.py]
 
 ### Resources
