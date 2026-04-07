@@ -1,4 +1,4 @@
-# Ensemble-learning-tutorial using Python and Sklearn
+# Ensemble learning tutorial using Python and Sklearn
 ## Rohitash Chandra, 2026
 
 ## Coverage 
